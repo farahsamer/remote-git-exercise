@@ -3,6 +3,8 @@ using namespace std;
 
 int main()
 {
-    Cout<< "Hello,This is a Demo for Git and Github \n";
+    cout<< "Hello,This is a Demo for Git and Github \n";
+    Int id;
+    cin id;
     return 0;
 }
